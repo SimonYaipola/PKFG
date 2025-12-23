@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 86_seel
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: seel
+  description: 
+  frontSprite: {fileID: 3800202167116691454, guid: 65d9e5fa1a0cbb74f84cb050d4c41950, type: 3}
+  backSprite: {fileID: 3800202167116691454, guid: 33bb28dddf94a1e4db42e3d701029faf, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 65
+  attack: 45
+  defense: 55
+  spAttack: 45
+  spDefense: 70
+  speed: 45
+  cry: {fileID: 8300000, guid: cdc31e4072d515146963347180f27d1c, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 5624864963c020046a602e3be9784a06, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 3ae45c73ecabeed46b82de2d2e0278ad, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 5b30a725eccf01441867361c5825a028, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: eae4ce65d2f020e40b51fff0dd8bedaa, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 07594ac9160dca94cb0569f51d468360, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: d2199a5b90e06754fbd40bb335035974, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 37
+  - moveBase: {fileID: 11400000, guid: f86fbbe9f3c1cfc4dae8e1be295541ca, type: 2}
+    level: 47
+  - moveBase: {fileID: 11400000, guid: f04a1cd347660ec44b0fb865c7756a00, type: 2}
+    level: 51

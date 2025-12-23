@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 76_golem
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: golem
+  description: 
+  frontSprite: {fileID: 3811139775257118856, guid: a5eee30208cc247448d3035e1c4fa82e, type: 3}
+  backSprite: {fileID: 3811139775257118856, guid: 06fa7c772c43b924eb90990588b0e668, type: 3}
+  type1: 13
+  type2: 9
+  maxHp: 80
+  attack: 120
+  defense: 130
+  spAttack: 55
+  spDefense: 65
+  speed: 45
+  cry: {fileID: 8300000, guid: 2b8221457b8f8b642aa63e23fd233b78, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7e2dd596ac38bd448b57651172e4ef15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1e51776c05b91c74ab5b1286966b4c67, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 6fbaf613c92e28148b4e7496f1282ffa, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 4722ad76cafa21d46a7aa3c159c58cc1, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 2191e84323d96ef43ad4e492e64c3806, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 50

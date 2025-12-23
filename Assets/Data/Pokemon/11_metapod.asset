@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 11_metapod
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: metapod
+  description: 
+  frontSprite: {fileID: -2966200626249415253, guid: 09608c1adc19980438291542dde92322, type: 3}
+  backSprite: {fileID: -2966200626249415253, guid: e55bb23876ab9364a9b47b19f27a0b92, type: 3}
+  type1: 12
+  type2: 0
+  maxHp: 50
+  attack: 20
+  defense: 55
+  spAttack: 25
+  spDefense: 25
+  speed: 30
+  cry: {fileID: 8300000, guid: 04b6935c8fc0077499c3be3e2df5c586, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 3d4e0f49820172246aeebe46a778fdfd, type: 2}
+    level: 1

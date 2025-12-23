@@ -3,19 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - MAP
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Prop
+  - LongGrass
+  - SolidObject
   - 
-  - 
-  - 
-  - 
+  - MAP
   - 
   - 
   - 
@@ -43,6 +44,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1588630183
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1728817465
     locked: 0
   - name: Player
     uniqueID: 3131950853

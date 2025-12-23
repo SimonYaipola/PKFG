@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 238_smoochum
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: smoochum
+  description: 
+  frontSprite: {fileID: -2349504652575955949, guid: 1f91a143e033fe64aac406b9a25e7256, type: 3}
+  backSprite: {fileID: -2349504652575955949, guid: f99a48a97c2c6454daed7239247aa854, type: 3}
+  type1: 6
+  type2: 11
+  maxHp: 45
+  attack: 30
+  defense: 15
+  spAttack: 85
+  spDefense: 65
+  speed: 65
+  cry: {fileID: 8300000, guid: d69d745d29a3e154c9d803af83666f72, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e84a914205ccd5f41bcf4bce6f5bd74b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2811f411ee41bcf46ad357a79f1247bc, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 4173f4ddc4e656241b0a314509aeb15d, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 87dc92391437c2648bf3daa0bff9ed5f, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: b2d48b63101a4544890b118d1377ec55, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: 3fb9d877db078a746a9aa8f6499d4859, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: ffaca2ca148edab43a2d1bceaf02fda5, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: ae65f9cdc49ffcf4eadda58b2650ef8b, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: d78295c66c16ee54389a77d7199d8f20, type: 2}
+    level: 48

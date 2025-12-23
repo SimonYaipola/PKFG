@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 162_furret
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: furret
+  description: 
+  frontSprite: {fileID: 6052558277385390765, guid: 373f658e06d0e0e40a3dcb38b37f1b77, type: 3}
+  backSprite: {fileID: 6052558277385390765, guid: d6f3eb4be89b3d248bd5b0088ee80589, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 85
+  attack: 76
+  defense: 64
+  spAttack: 45
+  spDefense: 55
+  speed: 90
+  cry: {fileID: 8300000, guid: e4b22f6dcf2881f4cb6cd73a356f261b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7e2dd596ac38bd448b57651172e4ef15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f385664a76efe3946a1219de5ef2cfc3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63c50b1d781f0984c974eac4e58f20d3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f9ecd384296554b48ba7aea265ffded4, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 7672b92803d828547808a27a58159550, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: 07594ac9160dca94cb0569f51d468360, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: e86653d8577fcfc45beae92cd9ad45e3, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: 1c841245ccd1de641ae2171cabb3baf2, type: 2}
+    level: 46
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 50

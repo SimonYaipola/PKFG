@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 205_forretress
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: forretress
+  description: 
+  frontSprite: {fileID: -509080973713900664, guid: 7f8a7fc513b4b9d48acef07dc61a46da, type: 3}
+  backSprite: {fileID: -509080973713900664, guid: f5d349c1426688d489eb368543f87816, type: 3}
+  type1: 12
+  type2: 17
+  maxHp: 75
+  attack: 90
+  defense: 140
+  spAttack: 60
+  spDefense: 60
+  speed: 40
+  cry: {fileID: 8300000, guid: 558f131c6096cda46bfbdba452dc9981, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: dad24bab398d4f340852a9dd0423b092, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6fbaf613c92e28148b4e7496f1282ffa, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ec40b2354364d4346a2f5c2e4d26ea1f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 269420bcb9ae2a54f870e64318ea6025, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: c23edbd0f4fbe9543a051197a0b48682, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 745e1cefcad3aba45b906cf90ec94cec, type: 2}
+    level: 23
+  - moveBase: {fileID: 11400000, guid: ef13b19dc41ea41419f68d54b8d6bb95, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: 2191e84323d96ef43ad4e492e64c3806, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 50

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 14_kakuna
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: kakuna
+  description: 
+  frontSprite: {fileID: -6270953770400647376, guid: 28df0a60a98d9c24b944f7c19751f638, type: 3}
+  backSprite: {fileID: -6270953770400647376, guid: 50102f0fccf04d3488fdffda4c72bc37, type: 3}
+  type1: 12
+  type2: 8
+  maxHp: 45
+  attack: 25
+  defense: 50
+  spAttack: 25
+  spDefense: 25
+  speed: 35
+  cry: {fileID: 8300000, guid: c169e9c7970e5904d99a69ca0e4d81c0, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 91dd2e83d7703fd4a9b477c69cdb427f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bbb4d65a1a1f4944d81e90fc152b34c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3d4e0f49820172246aeebe46a778fdfd, type: 2}
+    level: 7

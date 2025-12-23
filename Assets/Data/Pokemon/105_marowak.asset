@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 105_marowak
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: marowak
+  description: 
+  frontSprite: {fileID: 6460090415961922604, guid: 28b3a2d9fcd91fe4a9e13ee12cf272a2, type: 3}
+  backSprite: {fileID: 6460090415961922604, guid: 482c43b85300f6344a9d22813ce3fa91, type: 3}
+  type1: 9
+  type2: 0
+  maxHp: 60
+  attack: 80
+  defense: 110
+  spAttack: 50
+  spDefense: 80
+  speed: 45
+  cry: {fileID: 8300000, guid: 4e96288ef07184444ba630ebf9b6711b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 0d9ebe3c97fef31498727516a274aa17, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 5624864963c020046a602e3be9784a06, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: f6bacf9d7310d1649a56c498a522a6f4, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: e44277b2049ac5f42907c51fc5b3f267, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: eb7ba798770e43a4eb692c11248858b8, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: b625a9bd86ad9d14c83b68a01f7e0f61, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 48
+  - moveBase: {fileID: 11400000, guid: ae65f9cdc49ffcf4eadda58b2650ef8b, type: 2}
+    level: 55

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 46_paras
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: paras
+  description: 
+  frontSprite: {fileID: -963791335356448533, guid: 9c658d93632caf341a7e2ef43d4b9bb8, type: 3}
+  backSprite: {fileID: -963791335356448533, guid: a2942823a4f0ac54c956b1a8017b9b48, type: 3}
+  type1: 12
+  type2: 5
+  maxHp: 35
+  attack: 70
+  defense: 55
+  spAttack: 45
+  spDefense: 55
+  speed: 25
+  cry: {fileID: 8300000, guid: 0c6bb675b014a8247a8f272007b76aec, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e2dd8cb224f960c40a30796f5fd6307d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2b398d795ecaa64469f33adfe8e8ad34, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 036dbf73736a0c744905527875fb9907, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 1cb85831b7812464cbeddb448b4c7971, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: f23eaf3933e13e24ca4d308006f4f135, type: 2}
+    level: 29

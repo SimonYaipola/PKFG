@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 167_spinarak
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: spinarak
+  description: 
+  frontSprite: {fileID: -8248641632619851740, guid: 0777752326983b44fa66508e1887c634, type: 3}
+  backSprite: {fileID: -8248641632619851740, guid: f3ea969cabae11b44907d7061f03a003, type: 3}
+  type1: 12
+  type2: 8
+  maxHp: 40
+  attack: 60
+  defense: 40
+  spAttack: 40
+  spDefense: 40
+  speed: 30
+  cry: {fileID: 8300000, guid: 8ed428e783f98184a87bf76693ffd174, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 91dd2e83d7703fd4a9b477c69cdb427f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bbb4d65a1a1f4944d81e90fc152b34c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e2dd8cb224f960c40a30796f5fd6307d, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 03b977c68eb8b8349a707ea028b73fc8, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: a6f8c69a04043e2448000a66c0fab9cd, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: b2d48b63101a4544890b118d1377ec55, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: b047737d4a19c904d88cba60bcab2c74, type: 2}
+    level: 37
+  - moveBase: {fileID: 11400000, guid: acb6470735cc9ee438ac63959ca4e77c, type: 2}
+    level: 44

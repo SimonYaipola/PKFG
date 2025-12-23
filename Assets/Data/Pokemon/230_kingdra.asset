@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 230_kingdra
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: kingdra
+  description: 
+  frontSprite: {fileID: 6782305719301256243, guid: 8529127f23dc5914f9dd1f590fba1ed2, type: 3}
+  backSprite: {fileID: 6782305719301256243, guid: 75a539ab39c776f4ead0aeda7571cde9, type: 3}
+  type1: 3
+  type2: 15
+  maxHp: 75
+  attack: 95
+  defense: 95
+  spAttack: 95
+  spDefense: 95
+  speed: 85
+  cry: {fileID: 8300000, guid: 64c01df9f9f07844d82786316ea67b5f, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: cb3c2582c7ac37848a0014becf6671fc, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9f1e3ef5c79ab164f865930c94941d90, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 316ef7435814d6d4a8c5439849f45115, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e44277b2049ac5f42907c51fc5b3f267, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 1320ffaf9e148bb48952fdbb467cca29, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 3ec8113f443acaf4989bda2f553113c2, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 711869afd31fe6c468b7b7c9b90cd6b9, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: 27d42144fb8824d409b38f9ae5e07e6e, type: 2}
+    level: 51
+  - moveBase: {fileID: 11400000, guid: c4753caba114a2a4c83ec98ab08167fa, type: 2}
+    level: 65

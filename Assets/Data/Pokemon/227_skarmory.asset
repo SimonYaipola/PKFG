@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 227_skarmory
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: skarmory
+  description: 
+  frontSprite: {fileID: -6691782955811168394, guid: 8ca9eded41408a143b3ff7c1a8359e4b, type: 3}
+  backSprite: {fileID: -6691782955811168394, guid: 6ec615036b047594697bba965a5d4056, type: 3}
+  type1: 17
+  type2: 10
+  maxHp: 65
+  attack: 80
+  defense: 140
+  spAttack: 40
+  spDefense: 70
+  speed: 70
+  cry: {fileID: 8300000, guid: cceb23468c39adf4f8c0509190ba56c4, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 064e36b5db2f0c84d95f89fa773c1873, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e308e9b7cefea6c4c8f764c7bce7bd86, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 9adbc88c1c4f0294aace4cbb78bb7f82, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 1cb85831b7812464cbeddb448b4c7971, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: b54d2490589700043b2f7b63c5b26c2b, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: ef13b19dc41ea41419f68d54b8d6bb95, type: 2}
+    level: 46

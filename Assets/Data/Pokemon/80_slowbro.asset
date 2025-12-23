@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 80_slowbro
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: slowbro
+  description: 
+  frontSprite: {fileID: -2664783550769548753, guid: 0f17d7ff1121ae04ea53e0d9f11b737b, type: 3}
+  backSprite: {fileID: -2664783550769548753, guid: 8fbaba91fdbde1946b1086c3db33a7e2, type: 3}
+  type1: 3
+  type2: 11
+  maxHp: 95
+  attack: 75
+  defense: 110
+  spAttack: 100
+  spDefense: 80
+  speed: 30
+  cry: {fileID: 8300000, guid: b681de711dd1db74fbb1e19d158445ae, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 745e1cefcad3aba45b906cf90ec94cec, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 27058f08e9796474d8ed4d57dedbee8d, type: 2}
+    level: 14
+  - moveBase: {fileID: 11400000, guid: 5624864963c020046a602e3be9784a06, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: e86653d8577fcfc45beae92cd9ad45e3, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 20e69f6f4cfa35b4e8dac568cc82569a, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: b2d48b63101a4544890b118d1377ec55, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: 46c0ee54fa543ef4b92bb014c30a0d69, type: 2}
+    level: 45

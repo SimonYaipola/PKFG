@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 77_ponyta
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: ponyta
+  description: 
+  frontSprite: {fileID: 7965088197702528346, guid: fe141bb69a536da4f95057f31c8b6379, type: 3}
+  backSprite: {fileID: 7965088197702528346, guid: bcfdb55312ccb3447a39eb0cb9b53aad, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 50
+  attack: 85
+  defense: 55
+  spAttack: 65
+  spDefense: 65
+  speed: 90
+  cry: {fileID: 8300000, guid: ba758d06709ed3b45a79966b134e1c5b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b4f776c30707cab49b024c83bfbfca59, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 7f9c4054ae9fc2344a3027cb5eebfa84, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 33412aad2cf853b4daf699af62d8d452, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: 01d8f4865ba816d4b9f745f9583d9b71, type: 2}
+    level: 29
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 37

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 245_suicune
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: suicune
+  description: 
+  frontSprite: {fileID: -7001089451999903225, guid: e72d1337014845247920680bb36cc176, type: 3}
+  backSprite: {fileID: -7001089451999903225, guid: 6edf50642a3a98048a02847104422184, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 100
+  attack: 75
+  defense: 115
+  spAttack: 90
+  spDefense: 115
+  speed: 85
+  cry: {fileID: 8300000, guid: 1775521aae53de040bf5e4f805ca7117, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 14afc726094a98444aae3d96575f61ac, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9f703b73074155f4f9ee939d6a936a04, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7988f7b8a41079246b7962371fc2beaa, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 3ddabfd2ed004ef49b94115e8205c453, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 0473b353666222c448ffc4a4fa78ce99, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: 20e69f6f4cfa35b4e8dac568cc82569a, type: 2}
+    level: 54
+  - moveBase: {fileID: 11400000, guid: 3dc18118fdbb00844b90aea657408290, type: 2}
+    level: 60
+  - moveBase: {fileID: 11400000, guid: c4753caba114a2a4c83ec98ab08167fa, type: 2}
+    level: 66
+  - moveBase: {fileID: 11400000, guid: 27d42144fb8824d409b38f9ae5e07e6e, type: 2}
+    level: 72
+  - moveBase: {fileID: 11400000, guid: d78295c66c16ee54389a77d7199d8f20, type: 2}
+    level: 78

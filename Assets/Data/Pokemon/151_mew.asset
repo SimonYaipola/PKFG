@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 151_mew
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: mew
+  description: 
+  frontSprite: {fileID: 4992795740451895645, guid: e9e4e84a1ebe2a741ba36649e2847fa2, type: 3}
+  backSprite: {fileID: 4992795740451895645, guid: a0c755df5f84bd64c8fff93cc8f89f9f, type: 3}
+  type1: 11
+  type2: 0
+  maxHp: 100
+  attack: 100
+  defense: 100
+  spAttack: 100
+  spDefense: 100
+  speed: 100
+  cry: {fileID: 8300000, guid: d319b8602a19f5d41b228967b6b52922, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e86653d8577fcfc45beae92cd9ad45e3, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 1c841245ccd1de641ae2171cabb3baf2, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: f8a6394623094e645aed53db17f95728, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: db42f552c81cba24d83378b84f43db91, type: 2}
+    level: 60
+  - moveBase: {fileID: 11400000, guid: 40e1ca5dbbf6f5d478d16fdeec2f44de, type: 2}
+    level: 80
+  - moveBase: {fileID: 11400000, guid: b2d48b63101a4544890b118d1377ec55, type: 2}
+    level: 100

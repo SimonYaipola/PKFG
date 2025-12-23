@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 88_grimer
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: grimer
+  description: 
+  frontSprite: {fileID: -5789677524543127715, guid: ffa687f6be431dd45925410bb34c615e, type: 3}
+  backSprite: {fileID: -5789677524543127715, guid: 348cc1777944b114a98c3541f96ead9e, type: 3}
+  type1: 8
+  type2: 0
+  maxHp: 80
+  attack: 80
+  defense: 50
+  spAttack: 40
+  spDefense: 50
+  speed: 25
+  cry: {fileID: 8300000, guid: 950ac2d4d4b1c8c439d4d3a4a6561952, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e97bd9520172cd54bb20e857c83518d7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3d4e0f49820172246aeebe46a778fdfd, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 1c99c53df0c0adf48adf6e96dbc896d2, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: de29c2b7a83f8e742bad50e51f978b59, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 65632fdbdd2a0a4409b9bc06160c53e4, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 4e3074160a674ac4c9df9c0a21ff2e40, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: 8148f1a6299c007468636fdcc2cb47de, type: 2}
+    level: 26
+  - moveBase: {fileID: 11400000, guid: bebd8d5bfc439b24e9890c8799b74859, type: 2}
+    level: 29
+  - moveBase: {fileID: 11400000, guid: 03b977c68eb8b8349a707ea028b73fc8, type: 2}
+    level: 37
+  - moveBase: {fileID: 11400000, guid: 4fe3491fa38879543b7deb5485b5396f, type: 2}
+    level: 43

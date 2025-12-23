@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 107_hitmonchan
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: hitmonchan
+  description: 
+  frontSprite: {fileID: 8982626413702595610, guid: 3f083b7ef74743d4db9734cea984c1b5, type: 3}
+  backSprite: {fileID: 8982626413702595610, guid: 26340644dd61f6442bb7213460e568c0, type: 3}
+  type1: 7
+  type2: 0
+  maxHp: 50
+  attack: 105
+  defense: 79
+  spAttack: 35
+  spDefense: 110
+  speed: 76
+  cry: {fileID: 8300000, guid: c9e91cf7c393923499e25cb462515d55, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e44277b2049ac5f42907c51fc5b3f267, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 53b9f57e336fb55498f92a9ea660bb6b, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: f6bacf9d7310d1649a56c498a522a6f4, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 3198d7201027d0f4ca42788ef04ed0ee, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 87dc92391437c2648bf3daa0bff9ed5f, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 96a9b20e2b457574195bf8b587012b7d, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 711869afd31fe6c468b7b7c9b90cd6b9, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: e7c948d406f79dd42b11e9fd7c7199ff, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: 9f048a8dfb20f4443a908fe7d73e4945, type: 2}
+    level: 40

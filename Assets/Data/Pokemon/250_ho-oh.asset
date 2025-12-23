@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 250_ho-oh
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: ho-oh
+  description: 
+  frontSprite: {fileID: -4290822002864919330, guid: 3c2b7036163610442a05e2ba4a667cc1, type: 3}
+  backSprite: {fileID: -4290822002864919330, guid: 3301f23016d3d1646ac063f63db2dfd9, type: 3}
+  type1: 2
+  type2: 10
+  maxHp: 106
+  attack: 130
+  defense: 90
+  spAttack: 110
+  spDefense: 154
+  speed: 90
+  cry: {fileID: 8300000, guid: 5e930e3b1df7e3842bb9a9297d7fa7d4, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f8a6394623094e645aed53db17f95728, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 14afc726094a98444aae3d96575f61ac, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b4b97f197eac20646866aad3b4f7740a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f04a1cd347660ec44b0fb865c7756a00, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: 4798341e9b9c7f940861d331ae025e13, type: 2}
+    level: 45
+  - moveBase: {fileID: 11400000, guid: abbb589ccf155664eb163e8aade2afe6, type: 2}
+    level: 54
+  - moveBase: {fileID: 11400000, guid: fa9424f0428173c4ebcc9b72ae86aa76, type: 2}
+    level: 63
+  - moveBase: {fileID: 11400000, guid: 01d8f4865ba816d4b9f745f9583d9b71, type: 2}
+    level: 72
+  - moveBase: {fileID: 11400000, guid: 46c0ee54fa543ef4b92bb014c30a0d69, type: 2}
+    level: 81
+  - moveBase: {fileID: 11400000, guid: 625f8479c37e1f142943da52760ba291, type: 2}
+    level: 90

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 240_magby
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: magby
+  description: 
+  frontSprite: {fileID: 8419211206916895835, guid: 543f4fb7296409f4793f37fc0c3cee6f, type: 3}
+  backSprite: {fileID: 8419211206916895835, guid: c369454c91e0c244cbb83a3e8e7ca457, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 45
+  attack: 75
+  defense: 37
+  spAttack: 70
+  spDefense: 55
+  speed: 83
+  cry: {fileID: 8300000, guid: cbc137687267f474a81c897fa1071624, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 41a63ad3ea82a8d4e8e887e00c4a5407, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b4f776c30707cab49b024c83bfbfca59, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: cb3c2582c7ac37848a0014becf6671fc, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 7f9c4054ae9fc2344a3027cb5eebfa84, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: ec1bd5053782e2647b29d3b575e7a302, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 3198d7201027d0f4ca42788ef04ed0ee, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: f88c060218063ac4d907b8fb6b43fd70, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 0af39d75dd76c9240b69075130fc1efc, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: fa9424f0428173c4ebcc9b72ae86aa76, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: 01d8f4865ba816d4b9f745f9583d9b71, type: 2}
+    level: 48

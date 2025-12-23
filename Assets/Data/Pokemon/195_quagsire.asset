@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 195_quagsire
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: quagsire
+  description: 
+  frontSprite: {fileID: 825894152145657613, guid: 647b528d16b295b4eba0e2b4f8b33a4c, type: 3}
+  backSprite: {fileID: 825894152145657613, guid: f4346f276ccad944083051fd06781e35, type: 3}
+  type1: 3
+  type2: 9
+  maxHp: 95
+  attack: 85
+  defense: 85
+  spAttack: 65
+  spDefense: 65
+  speed: 35
+  cry: {fileID: 8300000, guid: 8029f6217d9d7a640861f516c730f658, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c4753caba114a2a4c83ec98ab08167fa, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 458bb1b81fe7cba4da31c98fe64c008d, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 9f703b73074155f4f9ee939d6a936a04, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 7672b92803d828547808a27a58159550, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: e86653d8577fcfc45beae92cd9ad45e3, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 8148f1a6299c007468636fdcc2cb47de, type: 2}
+    level: 46
+  - moveBase: {fileID: 11400000, guid: 4722ad76cafa21d46a7aa3c159c58cc1, type: 2}
+    level: 52

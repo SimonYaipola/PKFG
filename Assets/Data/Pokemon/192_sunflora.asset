@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 192_sunflora
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: sunflora
+  description: 
+  frontSprite: {fileID: -1769866364433399111, guid: a7bce061fd9f39549b344f8b70d02f5b, type: 3}
+  backSprite: {fileID: -1769866364433399111, guid: 086f6a5a02df8484a8159840f836d223, type: 3}
+  type1: 5
+  type2: 0
+  maxHp: 75
+  attack: 75
+  defense: 55
+  spAttack: 105
+  spDefense: 85
+  speed: 30
+  cry: {fileID: 8300000, guid: c739eefbe27e76c4693a2de03f6caab5, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e3d884dad238f304b89ff64190b7f2ca, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e2dd8cb224f960c40a30796f5fd6307d, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 30e2bd468f85f30429d44618695275c6, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: c38725076edcc8545a4abe9e08e9da2a, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 423b15956c8c72842bc75c40573a5be2, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 71722ef141765a94e98096bf23135bfb, type: 2}
+    level: 22
+  - moveBase: {fileID: 11400000, guid: 7b40c062c492a514481838d598d27d7d, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: d17576ed9bb04dd46b741d3e05c92525, type: 2}
+    level: 31
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 34
+  - moveBase: {fileID: 11400000, guid: fa9424f0428173c4ebcc9b72ae86aa76, type: 2}
+    level: 39

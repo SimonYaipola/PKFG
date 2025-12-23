@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 70_weepinbell
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: weepinbell
+  description: 
+  frontSprite: {fileID: 2730765880487802524, guid: 1b5a062a3963c934fb214aeb18c1ef9d, type: 3}
+  backSprite: {fileID: 2730765880487802524, guid: 779dbd50bd4cfb14aac64d14ae459181, type: 3}
+  type1: 5
+  type2: 8
+  maxHp: 65
+  attack: 90
+  defense: 50
+  spAttack: 85
+  spDefense: 45
+  speed: 55
+  cry: {fileID: 8300000, guid: 1b90b17f24806c345ab8b70708684943, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e3d884dad238f304b89ff64190b7f2ca, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f263d0ccbff3ea442a91f3d3f3200a9f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 423b15956c8c72842bc75c40573a5be2, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 9766b1f7ebd4bc549823b8aeb92e5cbb, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 036dbf73736a0c744905527875fb9907, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 2b398d795ecaa64469f33adfe8e8ad34, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: b047737d4a19c904d88cba60bcab2c74, type: 2}
+    level: 33

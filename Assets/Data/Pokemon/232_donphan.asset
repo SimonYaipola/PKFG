@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 232_donphan
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: donphan
+  description: 
+  frontSprite: {fileID: 4874615021345109194, guid: 04dc49df696c266499160ed9362bce69, type: 3}
+  backSprite: {fileID: 4874615021345109194, guid: 8f251b1621a0933459fd11984a13f6bc, type: 3}
+  type1: 9
+  type2: 0
+  maxHp: 90
+  attack: 120
+  defense: 120
+  spAttack: 60
+  spDefense: 60
+  speed: 50
+  cry: {fileID: 8300000, guid: 59f7727bc1f3fbd43a477b59e60cc5cd, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7e2dd596ac38bd448b57651172e4ef15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f3c795a06fd5bd84d8491ce6d883c643, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 269420bcb9ae2a54f870e64318ea6025, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: c23edbd0f4fbe9543a051197a0b48682, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 7672b92803d828547808a27a58159550, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: ec1bd5053782e2647b29d3b575e7a302, type: 2}
+    level: 37
+  - moveBase: {fileID: 11400000, guid: 4722ad76cafa21d46a7aa3c159c58cc1, type: 2}
+    level: 43

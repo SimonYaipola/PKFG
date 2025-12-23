@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 242_blissey
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: blissey
+  description: 
+  frontSprite: {fileID: -1194307532101684470, guid: 4024b444c20daea47b2ea76309d4873f, type: 3}
+  backSprite: {fileID: -1194307532101684470, guid: d1e41eb13b63b4f4c816cb2420ef33c8, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 255
+  attack: 10
+  defense: 10
+  spAttack: 75
+  spDefense: 135
+  speed: 55
+  cry: {fileID: 8300000, guid: a227ca8fa7293ef42a434c07347529f4, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 3ae45c73ecabeed46b82de2d2e0278ad, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7e2dd596ac38bd448b57651172e4ef15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3fb9d877db078a746a9aa8f6499d4859, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 4173f4ddc4e656241b0a314509aeb15d, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: fbb1d1650edeec742a1f44268adff1e6, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: b1ec5fb3f1b9edb4b8caf6a3cf4f1c64, type: 2}
+    level: 44

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 58_growlithe
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: growlithe
+  description: 
+  frontSprite: {fileID: 2032972958061289525, guid: 9aafe650fbdfe0f4e8209b64c8532ce2, type: 3}
+  backSprite: {fileID: 2032972958061289525, guid: 189a7e7c5fa657a49a5cc370710eebd6, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 55
+  attack: 70
+  defense: 45
+  spAttack: 70
+  spDefense: 50
+  speed: 60
+  cry: {fileID: 8300000, guid: 99c9b9743ac5de745a21816743914eff, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b4f776c30707cab49b024c83bfbfca59, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7988f7b8a41079246b7962371fc2beaa, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 7f9c4054ae9fc2344a3027cb5eebfa84, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 711869afd31fe6c468b7b7c9b90cd6b9, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 0473b353666222c448ffc4a4fa78ce99, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 0af39d75dd76c9240b69075130fc1efc, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 3ddabfd2ed004ef49b94115e8205c453, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: 0821ca0f956f9164899189fdb8e8a32e, type: 2}
+    level: 52

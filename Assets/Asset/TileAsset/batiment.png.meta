@@ -1,0 +1,7789 @@
+fileFormatVersion: 2
+guid: 209ad70893b4f4d44bdd3b49b3fde856
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6253308888613932783
+    second: batiment_0
+  - first:
+      213: 7312069381864152511
+    second: batiment_1
+  - first:
+      213: -2848046376883393171
+    second: batiment_2
+  - first:
+      213: -1300190282695290806
+    second: batiment_3
+  - first:
+      213: -5116516910697985382
+    second: batiment_4
+  - first:
+      213: -1139179759446156060
+    second: batiment_5
+  - first:
+      213: 5910258493115944496
+    second: batiment_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batiment_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111bf5f72b8c739a0800000000000000
+      internalID: -6253308888613932783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdd50f9c50b97560800000000000000
+      internalID: 7312069381864152511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6de60ae8e4b978d0800000000000000
+      internalID: -2848046376883393171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40588b93dbc4fde0800000000000000
+      internalID: -1300190282695290806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a419a6afa7ef8b0800000000000000
+      internalID: -5116516910697985382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec95ee5b02d030f0800000000000000
+      internalID: -1139179759446156060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e49ec19c4750250800000000000000
+      internalID: 5910258493115944496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c240e91d58214ca47c36c9f2795e2
+      internalID: 2024729156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb15d6a222a16c4eb2f8054fb24eb3a
+      internalID: -1864830126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3598cad56aa42634da4c74f0472fa107
+      internalID: -1893983420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d0383426c96e4bb80d9f1beea12f9
+      internalID: -1542437957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a599482b9502a74c823089f437880e7
+      internalID: 2137760404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf37a876e3be7240a423519c65b9a6a
+      internalID: 153778207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaae9da81ff67a4689b5361be5126eb
+      internalID: -1159666964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5367d9fe2316edc4ea2ffb3ebb60a0bf
+      internalID: -734272946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1c6c86dc0b174896f4e08e7eaf3d1
+      internalID: -1013554543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62f9d25c55cb944a8f0861fd3ab7793
+      internalID: -365640296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9b59388d17364eae9917b41ed068b
+      internalID: 1518860531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad2ab37af15004c961cf070e9903b9
+      internalID: -1147526711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6888e4147749c4fb25893811cdf39e
+      internalID: -760445768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c27f9aff11e94cae8a2016b83081a
+      internalID: -1365435083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e612f51bd17f2545973f9f8a3e0c9a9
+      internalID: 1430322753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22829a5ddda6645b63ee15867d4866
+      internalID: -1514208230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a1594dfb01c649be674b623ba5df9
+      internalID: 1641177310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e8321b4f5ca345aa80a4e61ed436e
+      internalID: -2085402972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab3d18a0868efe4483a8036f3d7f37f
+      internalID: -227157203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eebd57a63539f43bb1e926a71f7563
+      internalID: 242157991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3eff1275d2604ca4848d2a765d660
+      internalID: 2064933783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2be990d601ff4da6480fdf91ae780
+      internalID: -1762287341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5b1faab95a154d94343cf1f33de10
+      internalID: 2135791692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c72c5c5f7eea9d4fae0859a5fd045bc
+      internalID: 1375984001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ccb136c775d640b46105f26e35102
+      internalID: -1853200631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b1ee16f511bc4cbc7043b6ceb5da9
+      internalID: 1306156617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008653fa7ef32e0419cd546a6e069ca6
+      internalID: 319533124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2e7b3a05f5e846ae85bbe6f1c7ee5
+      internalID: 1518170213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b25240552c9bdb409ba59ee62e670d3
+      internalID: -1556207247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683777fb0a58c94f831a162e116323c
+      internalID: -826349270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e14eae37e9b84ba107a3b7a447e27
+      internalID: -1347184989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c25465d9a21c7488bca69fac50c786
+      internalID: -1730054694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e158638b51f175439d8dd8478121157
+      internalID: -990010394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08c697404c09142a6f863beb6ee4c3
+      internalID: -1475945901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_41
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb1c1d4bb55ce43a551ddf0e51896b
+      internalID: -1573906110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265bbc11ca2d0a408f9ab2788da89a6
+      internalID: 529831062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d8a9302e793043801f0b44dc2d0c2
+      internalID: 1507794308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_44
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabc908c1b15194428243b632d33e363
+      internalID: -826434307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774d694bc26f57438a6db6c22216ced
+      internalID: -409052099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51adb62722ea2e4494ffc41d2849771
+      internalID: 953219570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_47
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246893d1b2527f4c98d0b47a107a72c
+      internalID: -762655866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bc6c5c586c6d4397dd2b34bb526f9
+      internalID: -1820403620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_49
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87633e1449892a949b827c54b86ba592
+      internalID: 1072949866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d6ddb26059ad49bea06c935e5dc0c
+      internalID: -626007765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_51
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba27934e6265a442b2b225d1b61a524
+      internalID: 373023233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ea5c789163e04b98d233b2283e00a
+      internalID: -1303380840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_53
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109848c6d9be6d04e87ad4966c1f18eb
+      internalID: 775536128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c29996a3c722d4da3763415c04ccda
+      internalID: 130122632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_55
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c75347f420fc4994ef59479713e35
+      internalID: -1995215071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_56
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b212856c1d124e84f636ccda897dc
+      internalID: -1912787642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_57
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197bfe1aad3c1e54a853efbd37ea731e
+      internalID: 1423087342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d48d176a74c434e84e8ec9c5dc4da5
+      internalID: 1063739487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0686da5c2dcd234588bff057daa6636
+      internalID: -569029107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_60
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7830677f3fdd6644eb9e5bbd2091f535
+      internalID: 1548351164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_61
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5350e059e1b22448bf5d4d91d96ad7d
+      internalID: 530888921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_62
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f4260c9ce93649acfac48699ce2eb
+      internalID: 1122518008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a5747c26671844828d4dc87e29089
+      internalID: 73796705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdd04d38c993f41a04eacda788d322
+      internalID: 486617082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a044f6650f8940b2c3ec61e438076
+      internalID: 1595737580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00f1cb6eef3584ba4756d1da616b6e
+      internalID: 1511034920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e7655e4f3c3947867eb1eb6ad5799
+      internalID: -1292430872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d424143a2a1ba46ac21cd7880b1422
+      internalID: -123402566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64f41b0e90d724899cb9ee048ad6fa
+      internalID: -1396665451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f30c06f813fdb45982adae6090e015
+      internalID: -288135583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb7a77dd72ee84f8b677977f7e7604
+      internalID: -957863396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60297ac87b71647bd78a0c3f7df52f
+      internalID: -179385456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30247553487d5b45843d0d86eea3d6c
+      internalID: -232187598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f821c872cd614fbfb1da98a394274
+      internalID: 410442538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3756616256234ab8b33b00a434d85
+      internalID: -1092616139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3abda551566342ad916abc63904ac
+      internalID: -390942573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de5d174235c6ad4ca9f7d1ff50d072f
+      internalID: -1637062160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea908db9abcdc04ca805b3b21ca18fa
+      internalID: -1502855794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6b450932c7aba4198dc51d187acd32
+      internalID: 2085337447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feafd72b4c545994ab96873cdf2eaf7d
+      internalID: -1126678416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1658b27d80633b4cab58c2726b33285
+      internalID: -1667070036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_82
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d6907f2363374994389f636ba6079
+      internalID: 1146596213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ea6ecb12dbfc49ba34a4a0f9c4c6c
+      internalID: 109264200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9c4703b54a80429d6e0e685feac29
+      internalID: -793112304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4242ed2ae4971f49b4328518193bc2a
+      internalID: -2079864247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_86
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eab0d0a19f48b4c9ef51241605d4bd
+      internalID: -296232261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62768f46477af243939cbeddf0cd78e
+      internalID: -1388949018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f45df509bcd3a4a9b4c83a52e8572a
+      internalID: 324254826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e48b8895b59e47b3ce98e6eba3af4
+      internalID: -580892281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf4d0bfec999204d91e73759a7c0159
+      internalID: 907658890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bea34c28087542abc8a79d387ed71
+      internalID: -527519768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01009d4d0f09d5342922ecc7ca3bd641
+      internalID: -2106491098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e392d861d80847b28c1d64da2fa44
+      internalID: 1696519384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_94
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd236e7d6e98f674ab46317afc80bee8
+      internalID: 1304457024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b6256783e52148badc85099337164
+      internalID: 862451873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_96
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8fc9ee33cf7d469063f548fcf24b0
+      internalID: 1365651175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e15465af83ff24eaf11df339607e39
+      internalID: 1033193294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379456a533387fe4eb0a8b75531af8dd
+      internalID: -1128010857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de99c6681fd40f41840e44f39ba22e9
+      internalID: 822836841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_100
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec71694873acc4d84e14ba00dd8b18
+      internalID: -2037791710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_101
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb24ae3069aa9c4dac8297bab7bc38b
+      internalID: 1425375776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_102
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01635927c87bd7744964c7eb430e4573
+      internalID: 737447916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01728d2b980d87a42bbc0f5af730a47d
+      internalID: 386895540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_104
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0762d16bd0ff67f44bbd0ab217e3a2df
+      internalID: 513259576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_105
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062625fef6ea8d74f99ace0900f5bc2f
+      internalID: 1431965100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_106
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517829aaea3e134cad02f40f72d6628
+      internalID: 975599985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05abd6b3e30c55e4b96ef2cc7c8ebfe9
+      internalID: 1907364910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_108
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a5d9698dfc2446b612f4253071624
+      internalID: 1901223189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_109
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293948606351364e8c85774927a5043
+      internalID: -1081321548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_110
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5a2f5650bf374883cfc14652ac7a0
+      internalID: 294363324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9b48189917414ebc18640584567a9
+      internalID: -360446574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_112
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5bb821503f08142aefb5afde4db8be
+      internalID: -1562654067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_113
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2983209eb3ea0642828161981009d54
+      internalID: 410929882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_114
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa49765a618e64a840f921c19eecf2
+      internalID: -1069989379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf5a22eb3e476c469ed9e4b42ffcc91
+      internalID: 2099530194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_116
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2bc0f68b91d1e4dbe8012ceb85779c
+      internalID: 1810809437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_117
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04643a10026457946a35ca56a46944af
+      internalID: 2082840260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_118
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef613d70cd5cc418b9346925dad6de
+      internalID: -35077997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71350a244b02a479612db61d05ce97
+      internalID: -1004102333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_120
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9bc92fa6e32b40a6c32de4905fb6e
+      internalID: -1938603251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_121
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef34e11516f6a42b218546cbe990aa
+      internalID: 842035553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_122
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fabdc398298c74eb3d9e2f07264d1d
+      internalID: 291392780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed7dda840ab954993ad38d3dd858c8
+      internalID: 1269286687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936d96feb5e349408eb5356e15a4d68
+      internalID: -1285122877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fe1227d712a549b1ee7df49726cef
+      internalID: 272284619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952b500be52b56418568d64673c60e6
+      internalID: -858646221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031454a363c88b4d95fc55778276efe
+      internalID: 1725461955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a598147f7a6fed4993f8f79930eb1a2
+      internalID: 1941024129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22acd2691b6544b43944bb1fe1192e98
+      internalID: 391279602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c72c035be661f46ad1be12be12917d
+      internalID: -1917511220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab95c56d470174db331461c3ea4a98
+      internalID: 1063651817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f3a2d35decc14b883b06bc39f33c4
+      internalID: 1939038582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86262a7728608f4d9a738c64fc49d86
+      internalID: 1393689912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a4f6e7fcc1ed49beef8fc75a7f0f8
+      internalID: -553365387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_135
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484118702265ac84dada11a47e90694d
+      internalID: 1725638640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8d8958ee0c584ba9d61f2f0083ff7
+      internalID: 599760617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02397df5fe3c4b6428d0de224db7ac58
+      internalID: -249172391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a467e9b410c32e84db17146babd86226
+      internalID: 2137627816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb17584bd2d6304bbefa96197ecb8c2
+      internalID: 649288606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd4317a7b191c498ec3f11acc9f3ae
+      internalID: 1164509343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0775372326894aa87b39ded29cc1c
+      internalID: 874516452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9495a8ffd3f246a5c3e9bd3fc2129
+      internalID: -39953602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_143
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7be6c9e1e4594a83f6aca54f29987
+      internalID: 1329091208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f055549f8628541906547ac0ebfd6e
+      internalID: 2075098605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_145
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7a058152a70346bef17e11eba05a5
+      internalID: -462582912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069cf9a11e1f73f479d1df1022765b09
+      internalID: 1943599984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_147
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee1581a723108d41a3c4fac9bc69831
+      internalID: -1591668991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da629da70486f5d4bb15fdaaee9aeb56
+      internalID: 1919143704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6383aec9c87e83b439dc8f9709f52fab
+      internalID: 1298818389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_150
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbcd7ae62133c94a94f7fb24075f1fd
+      internalID: 661681221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_151
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1bddbcd51325488aaaa87433c01e1
+      internalID: 78840185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_152
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21811ecbc503b1e4dbb4fe6d648f7be2
+      internalID: 1207719265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_153
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e224b7965fb0c4582fa9e2f75ecdee
+      internalID: 2117293706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40887262b7839941901d3abe623cd6b
+      internalID: -1783428282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_155
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f8d607b1557c4c9432d23c789a4c8
+      internalID: -2135783689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd96d4c891776b44ae07227ad2ceba4
+      internalID: 575438376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_157
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad06d8c8fb52fc6418767b396e350708
+      internalID: -616917554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_158
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b5dec3e0b0c54183933937d9213d4
+      internalID: -372157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed7cc182904bf4eb1e44acac5ceeff
+      internalID: -932235560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79550de0401c4484481714e0fe6f83d3
+      internalID: -652912556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_161
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727454a8194d6e4ea61fc8b7fb6f4d7
+      internalID: -599612477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_162
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c955054b2389489b03ae9e41dfcbd
+      internalID: -571371744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_163
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b11dda81bd7e84b85bfa8cad1b656a
+      internalID: -2023546970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2380bd696a409fd4783898415f0ccedc
+      internalID: -1661682934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_165
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044d523875d5a940bf5c1fe5039e0fb
+      internalID: 1041810443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa747e07d456ff846bba63d51cbecf25
+      internalID: 818275664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_167
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbac30e926d91347be33197dac271c4
+      internalID: 801538799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_168
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f218a2c42bb3e00469d02dca9ab24eb0
+      internalID: -1319912282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_169
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe596be8a7a9588419dc9e117c820586
+      internalID: -221429821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_170
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cbfd1d1e77c542a650e76130bb415
+      internalID: -571715394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_171
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a97c323867f0a449097e01e3a8ab11
+      internalID: 386471945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71ea3f5a593e04fa0e3c1bf44288fb
+      internalID: -1764913615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_173
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616cb8980a9474e498e83be2f2363e60
+      internalID: -1635636532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_174
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14127c44e8adb84f881ca0a2fa0160a
+      internalID: -59561658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_175
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126b1a2db9aa7d43935bfdd2f27ac80
+      internalID: 765363601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_176
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef25c93f5ab2f48870864fb00a568b
+      internalID: 2088956002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_177
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2fe3772e2976b4fa4bfbf1847f719e
+      internalID: 729386254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_178
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8494c14b4201eb4fb3c328423a25ae8
+      internalID: 1706120573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_179
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f145ed1ba15c2c4d99361fc17a727a6
+      internalID: -1032591508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_180
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b09c635622ffc643a8c63d4ff5636d2
+      internalID: -829599106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_181
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3759e19a8d82b8c4190ceb698d6f7789
+      internalID: -523407886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_182
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ded95e1ddc4347bc591118e42e2c2
+      internalID: -853066160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_183
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49554f70a2795e46ac0bf9360eeb798
+      internalID: 596532935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_184
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a858f9c52f5d4f9cb7a12e256cd0a
+      internalID: 1814017577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c48914c604b842b41fb7a42eb1123
+      internalID: 170595554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_186
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d82503f5182c4f9d9561cf1aaec23
+      internalID: -229351815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece1f74c8ef75e4fbf3d6fbb4d299b2
+      internalID: 1589870344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5eef4a9fa905349a642147d0d7382b
+      internalID: 1951880042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_189
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd70b9f278786243aad302b5c2340ae
+      internalID: -1463597380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_190
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c69ca57d996fb47a330697488c3942
+      internalID: 2091324322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09686484c71762646bdf283d3403fe45
+      internalID: 1955680065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_192
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ac59d64fe12944a35dbaeb4bef318
+      internalID: -767388656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fe6ff4c795a5143b1c8b392409ce84
+      internalID: 140263052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c0663acebc5104ab7706313160f87a
+      internalID: 793649411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8865e7e3dab469840aa50f2573975bf6
+      internalID: -1248931686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_196
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3622584e605f7b64fa805e184109bceb
+      internalID: -1412910802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6adf1bcfafb049809190b8a7def58
+      internalID: 2145129567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_198
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2be3c87136e848a24b9f1c83bf4e7
+      internalID: 236093604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3d4c9990a54fe4bb173fc848f69f8f
+      internalID: -1981416241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_200
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b416facf4db3846a3675170bceddc1
+      internalID: 2026993675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_201
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1aba360be45e045a2801aea3ab28a4
+      internalID: 620687983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_202
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd9d0edc35f494b84a622919639e77
+      internalID: 1904673606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_203
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eac785ab2cb0646a00a477fb8a7337
+      internalID: -764895016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_204
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3adf15efe1b54a47a79de4e53d06edf
+      internalID: -1657510338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a59b7fb2f109c4ba4decfd92e46fb5
+      internalID: 1168029207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_206
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd4096fa95e174f82e41735e0c44a1
+      internalID: 934945861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_207
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae57cf081c24ca439b1b0b8fc933996
+      internalID: 1693077836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_208
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321894a2b031d7744a37789ebe105ca3
+      internalID: 2113419763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_209
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6978e6728d8e84fb0103ee4839d8ee
+      internalID: 359175059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_210
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef028c5aa008a343b1e7bf305cd3636
+      internalID: 741303262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_211
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aae070d1271c74b89e53214184c3f9
+      internalID: 401709844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_212
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d9f0743cc5834ba32d7199a6b90e9
+      internalID: -1812653732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_213
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e124e1664a9444b9ccec6323f15108
+      internalID: -1550976895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_214
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1ce31d7d9a344e8af23a750c26cc3
+      internalID: -2060869519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21fff62c0f530749b6b2938ab37168d
+      internalID: 1007436264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_216
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2488a68cf41b749adea8cede6b62a1
+      internalID: 681724534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_217
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08654c5219483a94b85da37e6e3af578
+      internalID: -1026470600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_218
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72800af359ff05346a76a74fc84572f8
+      internalID: -897101956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_219
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73866c2650925f04b8230285439b22bf
+      internalID: 1168191213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_220
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afd96192c62344baca636af11f7031
+      internalID: 1129084879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_221
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49119629fbdc4fd49ad89accfdd062ba
+      internalID: -238924031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_222
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413a5f433f14b74da0484c859d1625c
+      internalID: 897115252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_223
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810ffe588c00d6f4c8cf9f819b422226
+      internalID: 1731472437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_224
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b898e7a5b497a49bde2c32d4b0fd51
+      internalID: 1787176045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_225
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c263d311bb0c4ca6b37efd262526b
+      internalID: -1309129618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_226
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c48d1cfc2d9e408481a2e445825d4
+      internalID: 958683398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_227
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b243b04fe9dc06409ce490fcd9a6f77
+      internalID: 906554997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_228
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a2ce969424c8419c8ea810e178544
+      internalID: -2026927775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_229
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0706eab6b62141542ba0791c38673ca5
+      internalID: -1249626294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_230
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3ab135d49a81342961729053af97be
+      internalID: -1148728399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_231
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345ca6f318f1514497e39228995ccee
+      internalID: 19829999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_232
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef41ea20848a66479c3c1cf996ff332
+      internalID: -302828791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_233
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca417767320f64785d01bce1ab4c7e
+      internalID: 934353688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_234
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613071d282a4b9440b7f38b646efa4d6
+      internalID: 362561746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_235
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c6d2b761fb72d4d845db18141fa12a
+      internalID: -213161206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_236
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12132347178e92e44b9c0e052a6ba60a
+      internalID: -1201791334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b7ca9d9892ee4e90a66166ed088e7
+      internalID: 1940105628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_238
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eed7b3b6a9b5384bbae343d29b32fd9
+      internalID: -36321042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_239
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b70103ce35b204cb98405ebb7afa59
+      internalID: -864226640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_240
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a157e806d86d748ae377714065e2d0
+      internalID: -115018517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_241
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8e0fefccab6942b0eaedec9b76fcb
+      internalID: 534528000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_242
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b95819b96c84a419ea9d7450156fc0
+      internalID: -368723987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_243
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522382321c7fd51418d2ac452033b94e
+      internalID: 334579119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_244
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a451e15629c4a479b04bdc38a6ad50
+      internalID: -1752669301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_245
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f70710b5ab23040aadede5a37be5a1
+      internalID: -1096383111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580c8c7919ff6246a6b7bf8d25de627
+      internalID: 958899902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_247
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d37c83a70e2a49b11d5ce5e894622
+      internalID: -1853336874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_248
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb08e8acbc7ee44c827acef42c48e30
+      internalID: -1336779544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_249
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8eb31c814c714d9397a2cbfc8fa1c
+      internalID: -1552462549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a7baa5a084fc40b1a156114af4b78
+      internalID: 1679008969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_251
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edecddda41cb6542923617040454ff5
+      internalID: 2118105659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c81095321e193748a7920c88296ba0f
+      internalID: -1477112014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_253
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746b3550f8e34f479c24664755061a1
+      internalID: 804543059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d783aa9e4f889c54689446e4b1971d6f
+      internalID: -917270376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_255
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13553ea3266f9f14a8f2f893e50e1e5b
+      internalID: 1141952923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_256
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8fe1b54106fe4683433512f92363d
+      internalID: 911645920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_257
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642bc8ca0fb5a04ba9a599ce6437de6
+      internalID: 353807733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_258
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b7196aa86badb4ca63bd14872dad65
+      internalID: 1559258097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_259
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c02af8475b9249922f5667a1085dc
+      internalID: -1728751827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_260
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ef30e6c2e1a641a8af50e956f5ab1
+      internalID: 60254140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_261
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658122e0fd7144b4b83f1113fec93459
+      internalID: -1884321759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_262
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64602626852bc7a4587f3a78981e1211
+      internalID: -32448362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_263
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b6aebc3efe1942af7800c028f6b25
+      internalID: 1748087878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_264
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd3edbb3f33424385f4452342ec893
+      internalID: 1363153103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_265
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05b5a91b7e337f49a31afdfbd40ecc9
+      internalID: 293903559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4ce8a02758134581afeb00bd89c02
+      internalID: -54035474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_267
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20660ad2482fc4a8d7baef675ad88c
+      internalID: 1788065114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_268
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468947d8c580c74ab9caf67fce97135
+      internalID: 405483627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_269
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3afb34f4d20a84bbb919fa7a8e01b6
+      internalID: 796988789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_270
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cbc626f2109a74787a6a9ace38ca48
+      internalID: 1753168810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_271
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa64004f75faa814d993b9bb6901d0d5
+      internalID: 937054195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_272
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775a9ae8de38aa4facd01ac773ca5f9
+      internalID: -2079949813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_273
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b15d8a8cd9b8ed4994acb58aa974bea
+      internalID: -1295660701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_274
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cead4665516a124b87124f0c5cff978
+      internalID: 584828022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_275
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3da008bc86ee45ad33f0d1b171e2e
+      internalID: -36948637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_276
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b0e4733ae319f488f0074ba3e494d9
+      internalID: 481735167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_277
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a80ebcc7d041446b0c935b0977a869
+      internalID: -571533926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_278
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db01050e3f373c41a05ad7ea3dea555
+      internalID: -66440300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_279
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360a04e19adabb4f8c2637e1afd858d
+      internalID: 1952320969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_280
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a27a0155be2c243926294a183d9397
+      internalID: 1447371926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_281
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b527f9b6e3ce4490b9f1b74ef1aa2
+      internalID: -113059465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_282
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583431e9fef832847b8d0d437ef2173d
+      internalID: 80363146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_283
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af7b459b3905194ca02b68e6d354fa2
+      internalID: -154555478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_284
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeada2afa9adbf439d989338895a673
+      internalID: -1087347560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_285
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17497add6b223842900455001c424ca
+      internalID: 1374420483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_286
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df38ef3edbd65541a3b47b8390b2224
+      internalID: -840962184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_287
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be2c7edc4282e409195c9dba7fdc2a
+      internalID: 1757673275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_288
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa47d4dee3bff459a52fc815290095
+      internalID: 2071561926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_289
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399525ab10ed2824baf47c47607ef199
+      internalID: 1164364119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_290
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda80aee3fd96743aea0433e842b1c7
+      internalID: 95373033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_291
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626dd5dc8e51a9e459d7ee00a6f72e93
+      internalID: -976049675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_292
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae6e64f1dfa4e47880778d6b21ead8
+      internalID: -316775590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_293
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006324a4375f874899e5cb7766ed820
+      internalID: 1933500508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_294
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7a9e963b47fb499b2bef4cfd2569d
+      internalID: 981792647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_295
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9aff57e04832488149e2cea07b3f7
+      internalID: 1160191345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_296
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80cd5dfbb5652a41adb35b03cf26c38
+      internalID: 1390013990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_297
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8567c0618f083643a8727a295ea9c6d
+      internalID: 1700312776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_298
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52bf30849342b4e8fd35271ed907a5
+      internalID: -345863150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_299
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9c4e1c867adb44bff436f5e7bed1b
+      internalID: -1657064914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_300
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b717558b2c70042b07c3ba0a2ceb13
+      internalID: -1205455309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_301
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826e5a225f850c4f95acfc8280b443d
+      internalID: 328838036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_302
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29f0a32cd368445ae607fefe8a959c
+      internalID: 1898123746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_303
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e340e132cfd28488887354e603749e
+      internalID: -1477087625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_304
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791af266461487419889899a12b45e9
+      internalID: 478198786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_305
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cdfa50a4da0e241be53d5fbc8e1ba7
+      internalID: -101970374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_306
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69276514be31bd4e83f27dc78c0124e
+      internalID: 82564643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_307
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da4a8b0c3aa2241bd31818c44e1129
+      internalID: 2029488228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_308
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974d31ab9713c948950e354c6976e82
+      internalID: -1332685808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_309
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20a1ced6f36b344a245ea024d0f253
+      internalID: -403640609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_310
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ba91b926105048a7b6a870280a0eb
+      internalID: 2107654789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_311
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29506939e1326f94fbe969d372272860
+      internalID: -430201800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_312
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587722aa9e18174c9d9a8bea944bfa0
+      internalID: 1814064008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_313
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f415580c2f7b645b097579aeb6ecfb
+      internalID: -1591987465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_314
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444f40c99e919744af2a26fc842f9a6
+      internalID: 1114731232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_315
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e5721f7a97f04d9870dfae5aea38f
+      internalID: -880157826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_316
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcdb913a128bb543ac3f17521dbf5bc
+      internalID: -771251765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_317
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6afc5891aace5d4b8b19a4a9845f952
+      internalID: 1397531977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_318
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40224c50d0ed1bd489cc9b9094903f82
+      internalID: -1045660912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_319
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f007e28fc8ac03444b6c2bd622dd81a7
+      internalID: 369691369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_320
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e23fb25847944c8f295dad795d4b9
+      internalID: 91427502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_321
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b80e7b0ae02a4f91cdc3f52c5028e
+      internalID: 1402227533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_322
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e20ef5b3f7da340bf36df910e66a91
+      internalID: 1231796690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_323
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4aa0a24f9bbc645a9ec0e10a09f6d1
+      internalID: 808331642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_324
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54260899a1542794ab63b824a7e8385b
+      internalID: -733511205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_325
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85127cc44ca2fb4e817df99989c8e5f
+      internalID: 1115592152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_326
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6c1b6865c2d14286483fa96698190
+      internalID: 1059762195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_327
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd342875bcb1c4a4dbbc4513eac82895
+      internalID: 1691360751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_328
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ffee06d6e7e74f85c2ab62285017a
+      internalID: -112060329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_329
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879aa40b67b369c49a66a624bed8b6f3
+      internalID: -667212712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_330
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f932edc7aaa0045b934365b0561aa4
+      internalID: 1140155748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batiment_331
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b87c8cede301d48a05a6e7a211c1d3
+      internalID: -249111784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5b295750b654ed498496eedbe8063cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      batiment_0: -6253308888613932783
+      batiment_1: 7312069381864152511
+      batiment_10: -1542437957
+      batiment_100: -2037791710
+      batiment_101: 1425375776
+      batiment_102: 737447916
+      batiment_103: 386895540
+      batiment_104: 513259576
+      batiment_105: 1431965100
+      batiment_106: 975599985
+      batiment_107: 1907364910
+      batiment_108: 1901223189
+      batiment_109: -1081321548
+      batiment_11: 2137760404
+      batiment_110: 294363324
+      batiment_111: -360446574
+      batiment_112: -1562654067
+      batiment_113: 410929882
+      batiment_114: -1069989379
+      batiment_115: 2099530194
+      batiment_116: 1810809437
+      batiment_117: 2082840260
+      batiment_118: -35077997
+      batiment_119: -1004102333
+      batiment_12: 153778207
+      batiment_120: -1938603251
+      batiment_121: 842035553
+      batiment_122: 291392780
+      batiment_123: 1269286687
+      batiment_124: -1285122877
+      batiment_125: 272284619
+      batiment_126: -858646221
+      batiment_127: 1725461955
+      batiment_128: 1941024129
+      batiment_129: 391279602
+      batiment_13: -1159666964
+      batiment_130: -1917511220
+      batiment_131: 1063651817
+      batiment_132: 1939038582
+      batiment_133: 1393689912
+      batiment_134: -553365387
+      batiment_135: 1725638640
+      batiment_136: 599760617
+      batiment_137: -249172391
+      batiment_138: 2137627816
+      batiment_139: 649288606
+      batiment_14: -734272946
+      batiment_140: 1164509343
+      batiment_141: 874516452
+      batiment_142: -39953602
+      batiment_143: 1329091208
+      batiment_144: 2075098605
+      batiment_145: -462582912
+      batiment_146: 1943599984
+      batiment_147: -1591668991
+      batiment_148: 1919143704
+      batiment_149: 1298818389
+      batiment_15: -1013554543
+      batiment_150: 661681221
+      batiment_151: 78840185
+      batiment_152: 1207719265
+      batiment_153: 2117293706
+      batiment_154: -1783428282
+      batiment_155: -2135783689
+      batiment_156: 575438376
+      batiment_157: -616917554
+      batiment_158: -372157164
+      batiment_159: -932235560
+      batiment_16: -365640296
+      batiment_160: -652912556
+      batiment_161: -599612477
+      batiment_162: -571371744
+      batiment_163: -2023546970
+      batiment_164: -1661682934
+      batiment_165: 1041810443
+      batiment_166: 818275664
+      batiment_167: 801538799
+      batiment_168: -1319912282
+      batiment_169: -221429821
+      batiment_17: 1518860531
+      batiment_170: -571715394
+      batiment_171: 386471945
+      batiment_172: -1764913615
+      batiment_173: -1635636532
+      batiment_174: -59561658
+      batiment_175: 765363601
+      batiment_176: 2088956002
+      batiment_177: 729386254
+      batiment_178: 1706120573
+      batiment_179: -1032591508
+      batiment_18: -1147526711
+      batiment_180: -829599106
+      batiment_181: -523407886
+      batiment_182: -853066160
+      batiment_183: 596532935
+      batiment_184: 1814017577
+      batiment_185: 170595554
+      batiment_186: -229351815
+      batiment_187: 1589870344
+      batiment_188: 1951880042
+      batiment_189: -1463597380
+      batiment_19: -760445768
+      batiment_190: 2091324322
+      batiment_191: 1955680065
+      batiment_192: -767388656
+      batiment_193: 140263052
+      batiment_194: 793649411
+      batiment_195: -1248931686
+      batiment_196: -1412910802
+      batiment_197: 2145129567
+      batiment_198: 236093604
+      batiment_199: -1981416241
+      batiment_2: -2848046376883393171
+      batiment_20: -1365435083
+      batiment_200: 2026993675
+      batiment_201: 620687983
+      batiment_202: 1904673606
+      batiment_203: -764895016
+      batiment_204: -1657510338
+      batiment_205: 1168029207
+      batiment_206: 934945861
+      batiment_207: 1693077836
+      batiment_208: 2113419763
+      batiment_209: 359175059
+      batiment_21: 1430322753
+      batiment_210: 741303262
+      batiment_211: 401709844
+      batiment_212: -1812653732
+      batiment_213: -1550976895
+      batiment_214: -2060869519
+      batiment_215: 1007436264
+      batiment_216: 681724534
+      batiment_217: -1026470600
+      batiment_218: -897101956
+      batiment_219: 1168191213
+      batiment_22: -1514208230
+      batiment_220: 1129084879
+      batiment_221: -238924031
+      batiment_222: 897115252
+      batiment_223: 1731472437
+      batiment_224: 1787176045
+      batiment_225: -1309129618
+      batiment_226: 958683398
+      batiment_227: 906554997
+      batiment_228: -2026927775
+      batiment_229: -1249626294
+      batiment_23: 1641177310
+      batiment_230: -1148728399
+      batiment_231: 19829999
+      batiment_232: -302828791
+      batiment_233: 934353688
+      batiment_234: 362561746
+      batiment_235: -213161206
+      batiment_236: -1201791334
+      batiment_237: 1940105628
+      batiment_238: -36321042
+      batiment_239: -864226640
+      batiment_24: -2085402972
+      batiment_240: -115018517
+      batiment_241: 534528000
+      batiment_242: -368723987
+      batiment_243: 334579119
+      batiment_244: -1752669301
+      batiment_245: -1096383111
+      batiment_246: 958899902
+      batiment_247: -1853336874
+      batiment_248: -1336779544
+      batiment_249: -1552462549
+      batiment_25: -227157203
+      batiment_250: 1679008969
+      batiment_251: 2118105659
+      batiment_252: -1477112014
+      batiment_253: 804543059
+      batiment_254: -917270376
+      batiment_255: 1141952923
+      batiment_256: 911645920
+      batiment_257: 353807733
+      batiment_258: 1559258097
+      batiment_259: -1728751827
+      batiment_26: 242157991
+      batiment_260: 60254140
+      batiment_261: -1884321759
+      batiment_262: -32448362
+      batiment_263: 1748087878
+      batiment_264: 1363153103
+      batiment_265: 293903559
+      batiment_266: -54035474
+      batiment_267: 1788065114
+      batiment_268: 405483627
+      batiment_269: 796988789
+      batiment_27: 2064933783
+      batiment_270: 1753168810
+      batiment_271: 937054195
+      batiment_272: -2079949813
+      batiment_273: -1295660701
+      batiment_274: 584828022
+      batiment_275: -36948637
+      batiment_276: 481735167
+      batiment_277: -571533926
+      batiment_278: -66440300
+      batiment_279: 1952320969
+      batiment_28: -1762287341
+      batiment_280: 1447371926
+      batiment_281: -113059465
+      batiment_282: 80363146
+      batiment_283: -154555478
+      batiment_284: -1087347560
+      batiment_285: 1374420483
+      batiment_286: -840962184
+      batiment_287: 1757673275
+      batiment_288: 2071561926
+      batiment_289: 1164364119
+      batiment_29: 2135791692
+      batiment_290: 95373033
+      batiment_291: -976049675
+      batiment_292: -316775590
+      batiment_293: 1933500508
+      batiment_294: 981792647
+      batiment_295: 1160191345
+      batiment_296: 1390013990
+      batiment_297: 1700312776
+      batiment_298: -345863150
+      batiment_299: -1657064914
+      batiment_3: -1300190282695290806
+      batiment_30: 1375984001
+      batiment_300: -1205455309
+      batiment_301: 328838036
+      batiment_302: 1898123746
+      batiment_303: -1477087625
+      batiment_304: 478198786
+      batiment_305: -101970374
+      batiment_306: 82564643
+      batiment_307: 2029488228
+      batiment_308: -1332685808
+      batiment_309: -403640609
+      batiment_31: -1853200631
+      batiment_310: 2107654789
+      batiment_311: -430201800
+      batiment_312: 1814064008
+      batiment_313: -1591987465
+      batiment_314: 1114731232
+      batiment_315: -880157826
+      batiment_316: -771251765
+      batiment_317: 1397531977
+      batiment_318: -1045660912
+      batiment_319: 369691369
+      batiment_32: 1306156617
+      batiment_320: 91427502
+      batiment_321: 1402227533
+      batiment_322: 1231796690
+      batiment_323: 808331642
+      batiment_324: -733511205
+      batiment_325: 1115592152
+      batiment_326: 1059762195
+      batiment_327: 1691360751
+      batiment_328: -112060329
+      batiment_329: -667212712
+      batiment_33: 319533124
+      batiment_330: 1140155748
+      batiment_331: -249111784
+      batiment_34: 1518170213
+      batiment_35: -1556207247
+      batiment_36: -826349270
+      batiment_37: -1347184989
+      batiment_38: -1730054694
+      batiment_39: -990010394
+      batiment_4: -5116516910697985382
+      batiment_40: -1475945901
+      batiment_41: -1573906110
+      batiment_42: 529831062
+      batiment_43: 1507794308
+      batiment_44: -826434307
+      batiment_45: -409052099
+      batiment_46: 953219570
+      batiment_47: -762655866
+      batiment_48: -1820403620
+      batiment_49: 1072949866
+      batiment_5: -1139179759446156060
+      batiment_50: -626007765
+      batiment_51: 373023233
+      batiment_52: -1303380840
+      batiment_53: 775536128
+      batiment_54: 130122632
+      batiment_55: -1995215071
+      batiment_56: -1912787642
+      batiment_57: 1423087342
+      batiment_58: 1063739487
+      batiment_59: -569029107
+      batiment_6: 5910258493115944496
+      batiment_60: 1548351164
+      batiment_61: 530888921
+      batiment_62: 1122518008
+      batiment_63: 73796705
+      batiment_64: 486617082
+      batiment_65: 1595737580
+      batiment_66: 1511034920
+      batiment_67: -1292430872
+      batiment_68: -123402566
+      batiment_69: -1396665451
+      batiment_7: 2024729156
+      batiment_70: -288135583
+      batiment_71: -957863396
+      batiment_72: -179385456
+      batiment_73: -232187598
+      batiment_74: 410442538
+      batiment_75: -1092616139
+      batiment_76: -390942573
+      batiment_77: -1637062160
+      batiment_78: -1502855794
+      batiment_79: 2085337447
+      batiment_8: -1864830126
+      batiment_80: -1126678416
+      batiment_81: -1667070036
+      batiment_82: 1146596213
+      batiment_83: 109264200
+      batiment_84: -793112304
+      batiment_85: -2079864247
+      batiment_86: -296232261
+      batiment_87: -1388949018
+      batiment_88: 324254826
+      batiment_89: -580892281
+      batiment_9: -1893983420
+      batiment_90: 907658890
+      batiment_91: -527519768
+      batiment_92: -2106491098
+      batiment_93: 1696519384
+      batiment_94: 1304457024
+      batiment_95: 862451873
+      batiment_96: 1365651175
+      batiment_97: 1033193294
+      batiment_98: -1128010857
+      batiment_99: 822836841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

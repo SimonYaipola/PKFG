@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 92_gastly
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: gastly
+  description: 
+  frontSprite: {fileID: 158777831206505336, guid: d388229e705c960438571449d34596d6, type: 3}
+  backSprite: {fileID: 158777831206505336, guid: 38accc06e02586a4f8c358dcf5d0741b, type: 3}
+  type1: 14
+  type2: 8
+  maxHp: 30
+  attack: 35
+  defense: 30
+  spAttack: 100
+  spDefense: 35
+  speed: 80
+  cry: {fileID: 8300000, guid: 5e6f03c951bff9946b60f59907d43496, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e84a914205ccd5f41bcf4bce6f5bd74b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 33412aad2cf853b4daf699af62d8d452, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 745e1cefcad3aba45b906cf90ec94cec, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 458bb1b81fe7cba4da31c98fe64c008d, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 5b30a725eccf01441867361c5825a028, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: db61fbdb7e4a84349b42e015d15b5504, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: ae65f9cdc49ffcf4eadda58b2650ef8b, type: 2}
+    level: 50

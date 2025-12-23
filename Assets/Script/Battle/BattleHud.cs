@@ -1,0 +1,67 @@
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class BattleHud : MonoBehaviour
+{
+    [SerializeField] TextMeshProUGUI nameText;
+    [SerializeField] TextMeshProUGUI levelText;
+    [SerializeField] TextMeshProUGUI statusText;
+    [SerializeField] HPBar hpBar;
+
+    [SerializeField] Color psnColor;
+    [SerializeField] Color brnColor;
+    [SerializeField] Color parColor;
+    [SerializeField] Color slpColor;
+    [SerializeField] Color frzColor;
+    
+    Pokemon _pokemon;
+
+    Dictionary<ConditionID, Color> statusColors;
+
+
+    public void SetData(Pokemon pokemon)
+    {
+        _pokemon = pokemon;
+
+        nameText.text = pokemon.Base.Name;
+        levelText.text = "Lv " + pokemon.Level;
+        hpBar.SetHP((float)pokemon.HP/ pokemon.MaxHP);
+        statusColors = new Dictionary<ConditionID, Color>()
+        {
+            {ConditionID.psn, psnColor},
+            {ConditionID.brn, brnColor},
+            {ConditionID.par, parColor},
+            {ConditionID.slp, slpColor},
+            {ConditionID.frz, frzColor}
+        };
+
+        SetStatusText();
+        _pokemon.OnStatusChanged += SetStatusText;
+
+    }
+    void SetStatusText()
+    {
+        if (_pokemon.Status == null)
+        {
+            statusText.text = "";
+        }
+        else
+        {
+            statusText.text = _pokemon.Status.ID.ToString().ToUpper();
+            statusText.color = statusColors[_pokemon.Status.ID];
+        }
+    }
+    public IEnumerator UpdateHP()
+    {
+        if (_pokemon.HpChanged)
+        {
+            yield return hpBar.SetHPSmooth((float)_pokemon.HP / _pokemon.MaxHP);
+            _pokemon.HpChanged = false;
+        }
+       
+    }
+
+}

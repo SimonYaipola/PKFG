@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 217_ursaring
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: ursaring
+  description: 
+  frontSprite: {fileID: 7542988826001555345, guid: 8740a02f628c9b64f98a040383fd1d2a, type: 3}
+  backSprite: {fileID: 7542988826001555345, guid: 12363848514727f459ba4951fa7a8417, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 90
+  attack: 130
+  defense: 75
+  spAttack: 75
+  spDefense: 75
+  speed: 55
+  cry: {fileID: 8300000, guid: 96053c7aa012fe94ba708aa514736e70, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e84a914205ccd5f41bcf4bce6f5bd74b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63c50b1d781f0984c974eac4e58f20d3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f9ecd384296554b48ba7aea265ffded4, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: f3fe2079ef878b24aa03a096c786c663, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 1cb85831b7812464cbeddb448b4c7971, type: 2}
+    level: 22
+  - moveBase: {fileID: 11400000, guid: ec1bd5053782e2647b29d3b575e7a302, type: 2}
+    level: 35
+  - moveBase: {fileID: 11400000, guid: 07594ac9160dca94cb0569f51d468360, type: 2}
+    level: 41
+  - moveBase: {fileID: 11400000, guid: a8179a2c11a25d44e98d6677f20016bb, type: 2}
+    level: 41
+  - moveBase: {fileID: 11400000, guid: 91beddde3492f424ba8d0ad341e55256, type: 2}
+    level: 56

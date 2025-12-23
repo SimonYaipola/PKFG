@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 243_raikou
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: raikou
+  description: 
+  frontSprite: {fileID: 234276387665116097, guid: 7eb06f1c4a3ee7741ba5dc618b49fbe9, type: 3}
+  backSprite: {fileID: 234276387665116097, guid: 34431eff9765a9c459f895ef4cca1829, type: 3}
+  type1: 4
+  type2: 0
+  maxHp: 90
+  attack: 85
+  defense: 75
+  spAttack: 115
+  spDefense: 100
+  speed: 115
+  cry: {fileID: 8300000, guid: dcbb069542292da4491db074b344b114, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 224e71a92fcdf304f8bc05770afbe496, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f385664a76efe3946a1219de5ef2cfc3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1714641a323c10141867bb107a772d33, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 75d1bb6664cb658419db0413160613b7, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 7988f7b8a41079246b7962371fc2beaa, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 3ddabfd2ed004ef49b94115e8205c453, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 0473b353666222c448ffc4a4fa78ce99, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: afe95b65c20329744a59f648fcb57be9, type: 2}
+    level: 60
+  - moveBase: {fileID: 11400000, guid: c4753caba114a2a4c83ec98ab08167fa, type: 2}
+    level: 66
+  - moveBase: {fileID: 11400000, guid: e3dde8e2bab71d841a789578bfede85c, type: 2}
+    level: 72
+  - moveBase: {fileID: 11400000, guid: ec40b2354364d4346a2f5c2e4d26ea1f, type: 2}
+    level: 78

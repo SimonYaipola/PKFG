@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 183_marill
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: marill
+  description: 
+  frontSprite: {fileID: -6888370067028216198, guid: 26ab0189e1e239240bfa55f4407632cc, type: 3}
+  backSprite: {fileID: -6888370067028216198, guid: ec94ce651692d3e49a649c15940f0f10, type: 3}
+  type1: 3
+  type2: 18
+  maxHp: 70
+  attack: 20
+  defense: 50
+  spAttack: 20
+  spDefense: 50
+  speed: 40
+  cry: {fileID: 8300000, guid: 39dee931bfa425847887c61859534fae, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7e2dd596ac38bd448b57651172e4ef15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c23edbd0f4fbe9543a051197a0b48682, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3ec8113f443acaf4989bda2f553113c2, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 3ae45c73ecabeed46b82de2d2e0278ad, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 7672b92803d828547808a27a58159550, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: c4753caba114a2a4c83ec98ab08167fa, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 27d42144fb8824d409b38f9ae5e07e6e, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 33

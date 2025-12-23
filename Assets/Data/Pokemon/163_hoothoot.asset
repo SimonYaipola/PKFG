@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 163_hoothoot
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: hoothoot
+  description: 
+  frontSprite: {fileID: 4467487953950183051, guid: 89d6c6a402a142b429e17a40388de27b, type: 3}
+  backSprite: {fileID: 4467487953950183051, guid: eba7f758cba56a34ca8cacb85829be98, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 60
+  attack: 30
+  defense: 30
+  spAttack: 36
+  spDefense: 56
+  speed: 50
+  cry: {fileID: 8300000, guid: 127fa6f7a60f5c74f976eba14734ad3e, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 064e36b5db2f0c84d95f89fa773c1873, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: afe95b65c20329744a59f648fcb57be9, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 33412aad2cf853b4daf699af62d8d452, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: b4b90c56e0843e74f89fdb4132e7bd14, type: 2}
+    level: 39

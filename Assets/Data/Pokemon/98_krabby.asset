@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 98_krabby
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: krabby
+  description: 
+  frontSprite: {fileID: 3973187760570444981, guid: bf18db9a87f358343aa7e6308b077c92, type: 3}
+  backSprite: {fileID: 3973187760570444981, guid: 7eb540668a98c93438ec8da4a155b991, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 30
+  attack: 105
+  defense: 90
+  spAttack: 25
+  spDefense: 25
+  speed: 50
+  cry: {fileID: 8300000, guid: 8c4390f5be555714bba3a41e895aaa56, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3d4e0f49820172246aeebe46a778fdfd, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: e308e9b7cefea6c4c8f764c7bce7bd86, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: dad24bab398d4f340852a9dd0423b092, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 3ec8113f443acaf4989bda2f553113c2, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: bd237f063d26936468d61214c329f87c, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 55bc81cb0ae07234ca1929c797644429, type: 2}
+    level: 29
+  - moveBase: {fileID: 11400000, guid: 7672b92803d828547808a27a58159550, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: b625a9bd86ad9d14c83b68a01f7e0f61, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 49054dad8b956b0489480259907840f1, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: a965c2f5aebd0a349a65c599c4295119, type: 2}
+    level: 48

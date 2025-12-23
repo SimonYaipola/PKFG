@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 188_skiploom
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: skiploom
+  description: 
+  frontSprite: {fileID: -4333155489754791882, guid: e015e1b925735634fbc228e3c9338e2d, type: 3}
+  backSprite: {fileID: -4333155489754791882, guid: d04db80bef1491d44ac6292eeceb6257, type: 3}
+  type1: 5
+  type2: 10
+  maxHp: 55
+  attack: 45
+  defense: 50
+  spAttack: 45
+  spDefense: 65
+  speed: 80
+  cry: {fileID: 8300000, guid: c4016abc34c86f046be2e5abcd5e9864, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e2dd8cb224f960c40a30796f5fd6307d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0db78af0347646d49b374475d85b7aed, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7b9df3a75091f8542a5646e56efeeab3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 9766b1f7ebd4bc549823b8aeb92e5cbb, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 2b398d795ecaa64469f33adfe8e8ad34, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 036dbf73736a0c744905527875fb9907, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: c38725076edcc8545a4abe9e08e9da2a, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 30e2bd468f85f30429d44618695275c6, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 059bdf5a13c5c394a8fad4190cc29170, type: 2}
+    level: 31
+  - moveBase: {fileID: 11400000, guid: 71722ef141765a94e98096bf23135bfb, type: 2}
+    level: 37

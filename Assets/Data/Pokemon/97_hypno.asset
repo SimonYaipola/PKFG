@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 97_hypno
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: hypno
+  description: 
+  frontSprite: {fileID: 6051461806625355020, guid: ab4dea8e7b252114f9839a0fce0ec2fd, type: 3}
+  backSprite: {fileID: 6051461806625355020, guid: 0ed928b4ab4879a469cb714db790be16, type: 3}
+  type1: 11
+  type2: 0
+  maxHp: 85
+  attack: 73
+  defense: 70
+  spAttack: 73
+  spDefense: 115
+  speed: 67
+  cry: {fileID: 8300000, guid: aa839506eed05174d95321767e2b96ec, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: de29c2b7a83f8e742bad50e51f978b59, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 33412aad2cf853b4daf699af62d8d452, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5624864963c020046a602e3be9784a06, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: e97bd9520172cd54bb20e857c83518d7, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 27058f08e9796474d8ed4d57dedbee8d, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: d4d38162f1973b74d86f5bf2eaf9b38a, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: c4d38ac76419e824b9af94c7ac15f1e6, type: 2}
+    level: 37
+  - moveBase: {fileID: 11400000, guid: b2d48b63101a4544890b118d1377ec55, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: 46c0ee54fa543ef4b92bb014c30a0d69, type: 2}
+    level: 56

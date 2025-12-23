@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 223_remoraid
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: remoraid
+  description: 
+  frontSprite: {fileID: -1029319319538805001, guid: 3c82e5cfc87725e478241633821e480d, type: 3}
+  backSprite: {fileID: -1029319319538805001, guid: bee4c615108d97f4aa3ded0520f8a00d, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 35
+  attack: 65
+  defense: 35
+  spAttack: 65
+  spDefense: 35
+  speed: 65
+  cry: {fileID: 8300000, guid: 48593810deca1d546a82d7486f491a84, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f4121a58b9ab897418c4bb84c5db0ec5, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f86fbbe9f3c1cfc4dae8e1be295541ca, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 27d42144fb8824d409b38f9ae5e07e6e, type: 2}
+    level: 34
+  - moveBase: {fileID: 11400000, guid: 68fb56a1c3efa324c9d3707c0fc43bd6, type: 2}
+    level: 43

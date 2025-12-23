@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 177_natu
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: natu
+  description: 
+  frontSprite: {fileID: -5381851873796194199, guid: 35c54887bf373ed42a81100f23e818a6, type: 3}
+  backSprite: {fileID: -5381851873796194199, guid: e865c37a28b5b2c45af821ad9b4836dc, type: 3}
+  type1: 11
+  type2: 10
+  maxHp: 40
+  attack: 50
+  defense: 45
+  spAttack: 70
+  spDefense: 45
+  speed: 70
+  cry: {fileID: 8300000, guid: 7d720b0708570e142827b1d7cfa55b1a, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 064e36b5db2f0c84d95f89fa773c1873, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 440a59c914579d34ea70ab14116a7476, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 8291dd2408a5b56488085b9e4ecdf15e, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: b2d48b63101a4544890b118d1377ec55, type: 2}
+    level: 35
+  - moveBase: {fileID: 11400000, guid: 46c0ee54fa543ef4b92bb014c30a0d69, type: 2}
+    level: 45

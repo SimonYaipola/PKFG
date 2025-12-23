@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 165_ledyba
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: ledyba
+  description: 
+  frontSprite: {fileID: -7475638615957279487, guid: 199e4d058f1bde14ebcc632143b7808d, type: 3}
+  backSprite: {fileID: -7475638615957279487, guid: 3f92fffc730c5cc4d8e63aab51694461, type: 3}
+  type1: 12
+  type2: 10
+  maxHp: 40
+  attack: 20
+  defense: 30
+  spAttack: 40
+  spDefense: 80
+  speed: 55
+  cry: {fileID: 8300000, guid: f3f95b176562bb8449c5e5d19ca1f807, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6b187698a1e6f7a46ab873ec659764f4, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 8158fc38f3f99604b923abe3ebc07a8b, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: fbb1d1650edeec742a1f44268adff1e6, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: afe95b65c20329744a59f648fcb57be9, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: f04a1cd347660ec44b0fb865c7756a00, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 53b9f57e336fb55498f92a9ea660bb6b, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 1c841245ccd1de641ae2171cabb3baf2, type: 2}
+    level: 26
+  - moveBase: {fileID: 11400000, guid: 711869afd31fe6c468b7b7c9b90cd6b9, type: 2}
+    level: 29
+  - moveBase: {fileID: 11400000, guid: d46f22e1808e4d341a863a34764cc737, type: 2}
+    level: 40

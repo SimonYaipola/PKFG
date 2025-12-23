@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 12_butterfree
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: butterfree
+  description: 
+  frontSprite: {fileID: -1540426309290004842, guid: 2103e05d007e39e4ba774317d42dc4f3, type: 3}
+  backSprite: {fileID: -1540426309290004842, guid: 5128b10a6c6965749b512200dfa38695, type: 3}
+  type1: 12
+  type2: 10
+  maxHp: 60
+  attack: 45
+  defense: 50
+  spAttack: 90
+  spDefense: 80
+  speed: 70
+  cry: {fileID: 8300000, guid: 3f232050455002d43884603579a76a41, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 036dbf73736a0c744905527875fb9907, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9766b1f7ebd4bc549823b8aeb92e5cbb, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 2b398d795ecaa64469f33adfe8e8ad34, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 152b6771c525332479b0564f7b4e9ebd, type: 2}
+    level: 3

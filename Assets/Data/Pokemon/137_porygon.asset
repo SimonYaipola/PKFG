@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 137_porygon
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: porygon
+  description: 
+  frontSprite: {fileID: 3378442778122953735, guid: e87f4413196a2a44fac1c45e762a7422, type: 3}
+  backSprite: {fileID: 3378442778122953735, guid: a04923ad08286e94eb4b54a766231501, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 65
+  attack: 60
+  defense: 70
+  spAttack: 85
+  spDefense: 75
+  speed: 40
+  cry: {fileID: 8300000, guid: b6fe363101828cb41ab5bf202024e273, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bfa5c4d692dddc5458fa50606f1bfacb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1714641a323c10141867bb107a772d33, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 27058f08e9796474d8ed4d57dedbee8d, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 7bc42efaafb42a3479a123c9d199a6bd, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 711869afd31fe6c468b7b7c9b90cd6b9, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: 4798341e9b9c7f940861d331ae025e13, type: 2}
+    level: 35
+  - moveBase: {fileID: 11400000, guid: 6fbaf613c92e28148b4e7496f1282ffa, type: 2}
+    level: 50
+  - moveBase: {fileID: 11400000, guid: ec40b2354364d4346a2f5c2e4d26ea1f, type: 2}
+    level: 55

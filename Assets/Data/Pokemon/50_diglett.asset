@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 50_diglett
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: diglett
+  description: 
+  frontSprite: {fileID: -1783808350427418317, guid: 058276b4fef1bae4f9c1214ea137931f, type: 3}
+  backSprite: {fileID: -1783808350427418317, guid: 71b1bfbdfebd6fb4590d6f824dac86f8, type: 3}
+  type1: 9
+  type2: 0
+  maxHp: 10
+  attack: 55
+  defense: 25
+  spAttack: 35
+  spDefense: 45
+  speed: 95
+  cry: {fileID: 8300000, guid: b79cd6df5d587dd4c9be23aae5aeb642, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 152b6771c525332479b0564f7b4e9ebd, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63c50b1d781f0984c974eac4e58f20d3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 1c99c53df0c0adf48adf6e96dbc896d2, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 1cb85831b7812464cbeddb448b4c7971, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 84fa4f240be631346a79097498f6d401, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: 6f9e7bfdaeb52f34b8c39a001512b5d9, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: 4722ad76cafa21d46a7aa3c159c58cc1, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 169069c79df7d464d8854a33d783891e, type: 2}
+    level: 44

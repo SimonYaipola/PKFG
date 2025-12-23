@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 244_entei
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: entei
+  description: 
+  frontSprite: {fileID: -1132232795455289780, guid: 5a5ddb4b1c5fbc44397fc14d7eca1b96, type: 3}
+  backSprite: {fileID: -1132232795455289780, guid: 1534267aa7a567949a176c51a15d9d3a, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 115
+  attack: 115
+  defense: 85
+  spAttack: 90
+  spDefense: 75
+  speed: 100
+  cry: {fileID: 8300000, guid: dd614d7216bd83443af8ec6bacc654b0, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b4f776c30707cab49b024c83bfbfca59, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: cb3c2582c7ac37848a0014becf6671fc, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bd237f063d26936468d61214c329f87c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7f9c4054ae9fc2344a3027cb5eebfa84, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 7988f7b8a41079246b7962371fc2beaa, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 3ddabfd2ed004ef49b94115e8205c453, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: ec1bd5053782e2647b29d3b575e7a302, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 0473b353666222c448ffc4a4fa78ce99, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: c4d38ac76419e824b9af94c7ac15f1e6, type: 2}
+    level: 60
+  - moveBase: {fileID: 11400000, guid: fa9424f0428173c4ebcc9b72ae86aa76, type: 2}
+    level: 66
+  - moveBase: {fileID: 11400000, guid: 01d8f4865ba816d4b9f745f9583d9b71, type: 2}
+    level: 72

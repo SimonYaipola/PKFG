@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 38_ninetales
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: ninetales
+  description: 
+  frontSprite: {fileID: -2014771838305702419, guid: 8a0b08924fc5622489239e0eefc0b4b1, type: 3}
+  backSprite: {fileID: -2014771838305702419, guid: b116a3fd249bda947b3db70ed0e0ee69, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 73
+  attack: 76
+  defense: 75
+  spAttack: 81
+  spDefense: 100
+  speed: 100
+  cry: {fileID: 8300000, guid: 622bf6d72155d274aa1a9e9fae3a2948, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0af39d75dd76c9240b69075130fc1efc, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f385664a76efe3946a1219de5ef2cfc3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 1

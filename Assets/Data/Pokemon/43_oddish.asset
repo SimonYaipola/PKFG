@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 43_oddish
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: oddish
+  description: 
+  frontSprite: {fileID: -4004772778501413904, guid: 07406d2a94ba64e40ad710056e73eeb4, type: 3}
+  backSprite: {fileID: -4004772778501413904, guid: ee9e15c772cdd344ab5fd46cd42d1d80, type: 3}
+  type1: 5
+  type2: 8
+  maxHp: 45
+  attack: 50
+  defense: 55
+  spAttack: 75
+  spDefense: 65
+  speed: 30
+  cry: {fileID: 8300000, guid: fa71133b144d4f043a081452a7ff04b9, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e2dd8cb224f960c40a30796f5fd6307d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e3d884dad238f304b89ff64190b7f2ca, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: acd91a179aaf89949bbb568c014484b1, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: f3fe2079ef878b24aa03a096c786c663, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 30e2bd468f85f30429d44618695275c6, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 036dbf73736a0c744905527875fb9907, type: 2}
+    level: 14
+  - moveBase: {fileID: 11400000, guid: 2b398d795ecaa64469f33adfe8e8ad34, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 9766b1f7ebd4bc549823b8aeb92e5cbb, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: 71722ef141765a94e98096bf23135bfb, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 8148f1a6299c007468636fdcc2cb47de, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 5c0a29624ebe115438dddd25a9cd5ff2, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 7b40c062c492a514481838d598d27d7d, type: 2}
+    level: 40

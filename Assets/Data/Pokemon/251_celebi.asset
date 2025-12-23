@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 251_celebi
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: celebi
+  description: 
+  frontSprite: {fileID: -2319155437716717107, guid: ca288c5c197edd04fa6c99e7e43efb27, type: 3}
+  backSprite: {fileID: -2319155437716717107, guid: edf4234cca6eabe4bbcb496df165303e, type: 3}
+  type1: 11
+  type2: 5
+  maxHp: 100
+  attack: 100
+  defense: 100
+  spAttack: 100
+  spDefense: 100
+  speed: 100
+  cry: {fileID: 8300000, guid: 1db0d1c025797ab4fb5c9bec1c2c26b4, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9efce7fe750ee23468aa5010c924cbe2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1c841245ccd1de641ae2171cabb3baf2, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: f8a6394623094e645aed53db17f95728, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: c38725076edcc8545a4abe9e08e9da2a, type: 2}
+    level: 50
+  - moveBase: {fileID: 11400000, guid: 4798341e9b9c7f940861d331ae025e13, type: 2}
+    level: 60
+  - moveBase: {fileID: 11400000, guid: 46c0ee54fa543ef4b92bb014c30a0d69, type: 2}
+    level: 70
+  - moveBase: {fileID: 11400000, guid: ae65f9cdc49ffcf4eadda58b2650ef8b, type: 2}
+    level: 100

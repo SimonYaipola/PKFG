@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 170_chinchou
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: chinchou
+  description: 
+  frontSprite: {fileID: -5728049450608819562, guid: d2331142fae994446b0e78fe09602747, type: 3}
+  backSprite: {fileID: -5728049450608819562, guid: 4402aa1363b0b2d4cb45baa94c94fc69, type: 3}
+  type1: 3
+  type2: 4
+  maxHp: 75
+  attack: 38
+  defense: 38
+  spAttack: 56
+  spDefense: 56
+  speed: 67
+  cry: {fileID: 8300000, guid: 45cd3821500d67e479bc18528759767f, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 6b187698a1e6f7a46ab873ec659764f4, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61e8d57337063ce46aae226bbaad24da, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2057383f66c63b1459f1addd40647ce8, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 3ec8113f443acaf4989bda2f553113c2, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 75d1bb6664cb658419db0413160613b7, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 55bc81cb0ae07234ca1929c797644429, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 27d42144fb8824d409b38f9ae5e07e6e, type: 2}
+    level: 44

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 62_poliwrath
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: poliwrath
+  description: 
+  frontSprite: {fileID: 8487931408410037748, guid: 1e8108656f18e514bb75ba60b74871a9, type: 3}
+  backSprite: {fileID: 8487931408410037748, guid: f359849f589794046b4d7bd9a7f1a402, type: 3}
+  type1: 3
+  type2: 7
+  maxHp: 90
+  attack: 95
+  defense: 95
+  spAttack: 70
+  spDefense: 90
+  speed: 70
+  cry: {fileID: 8300000, guid: fe8f0afc722d1fc43b9bb9c3bbe1c1cf, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 77fd7647af3eca3438e5fe4bfacd1a40, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3ec8113f443acaf4989bda2f553113c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 33412aad2cf853b4daf699af62d8d452, type: 2}
+    level: 1

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 186_politoed
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: politoed
+  description: 
+  frontSprite: {fileID: 6024843142379776856, guid: 0c833d5ce84db354bac9f733875facb6, type: 3}
+  backSprite: {fileID: 6024843142379776856, guid: 2a5afbd51966ff140831fd29f39a9259, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 90
+  attack: 75
+  defense: 75
+  spAttack: 90
+  spDefense: 100
+  speed: 70
+  cry: {fileID: 8300000, guid: aa1c2524a29a81e45b1c721d57489de1, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 1ab30ad1a23fa5047b8991d80f8b0c42, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 27d42144fb8824d409b38f9ae5e07e6e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a2c9bbe71dd165c42aa166d22e3c4402, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c4753caba114a2a4c83ec98ab08167fa, type: 2}
+    level: 1

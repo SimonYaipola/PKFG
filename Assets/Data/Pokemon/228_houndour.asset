@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 228_houndour
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: houndour
+  description: 
+  frontSprite: {fileID: -7953443022403402997, guid: 866e3107987a55443b68e47f9415806a, type: 3}
+  backSprite: {fileID: -7953443022403402997, guid: bbe9a50d4a25dde4e98c12f9ae0b446f, type: 3}
+  type1: 16
+  type2: 2
+  maxHp: 45
+  attack: 60
+  defense: 30
+  spAttack: 80
+  spDefense: 50
+  speed: 65
+  cry: {fileID: 8300000, guid: 964d298b814057d499bbeb7640dc8eaf, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b4f776c30707cab49b024c83bfbfca59, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1c374c8b64d7c7e4a9942894be79c434, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be132d6f929367e42a3417d9c9974d13, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 3ddabfd2ed004ef49b94115e8205c453, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 7988f7b8a41079246b7962371fc2beaa, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 4194b2c88d0263242b1950cd4e2390d4, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 0af39d75dd76c9240b69075130fc1efc, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: 0473b353666222c448ffc4a4fa78ce99, type: 2}
+    level: 49

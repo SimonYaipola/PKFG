@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 27_sandshrew
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: sandshrew
+  description: 
+  frontSprite: {fileID: -5622901713081898559, guid: 5527a2b97271d9447b32833c5ce9f518, type: 3}
+  backSprite: {fileID: -5622901713081898559, guid: 32661bd5a5957bf42ae4019501a2dc24, type: 3}
+  type1: 9
+  type2: 0
+  maxHp: 50
+  attack: 75
+  defense: 85
+  spAttack: 20
+  spDefense: 30
+  speed: 40
+  cry: {fileID: 8300000, guid: 5c246e742ff5bee4ea8ba946f2613a6b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7e2dd596ac38bd448b57651172e4ef15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63c50b1d781f0984c974eac4e58f20d3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 91dd2e83d7703fd4a9b477c69cdb427f, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 152b6771c525332479b0564f7b4e9ebd, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: c23edbd0f4fbe9543a051197a0b48682, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 3c4a3fcd97827f24a92cabe455f253c5, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 269420bcb9ae2a54f870e64318ea6025, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 8158fc38f3f99604b923abe3ebc07a8b, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: f9ecd384296554b48ba7aea265ffded4, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 711869afd31fe6c468b7b7c9b90cd6b9, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 1cb85831b7812464cbeddb448b4c7971, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: 6f9e7bfdaeb52f34b8c39a001512b5d9, type: 2}
+    level: 33
+  - moveBase: {fileID: 11400000, guid: b625a9bd86ad9d14c83b68a01f7e0f61, type: 2}
+    level: 39
+  - moveBase: {fileID: 11400000, guid: 84fa4f240be631346a79097498f6d401, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: 4722ad76cafa21d46a7aa3c159c58cc1, type: 2}
+    level: 45

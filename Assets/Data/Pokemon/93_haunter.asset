@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 93_haunter
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: haunter
+  description: 
+  frontSprite: {fileID: -3339920041963615713, guid: e38f71ca929617144af6cd3e43b9d922, type: 3}
+  backSprite: {fileID: -3339920041963615713, guid: 9f377abda0fac1a4098487eb06e38628, type: 3}
+  type1: 14
+  type2: 8
+  maxHp: 45
+  attack: 50
+  defense: 45
+  spAttack: 115
+  spDefense: 55
+  speed: 95
+  cry: {fileID: 8300000, guid: 9b8db4f47f6097046ac33a74776b2d7b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e84a914205ccd5f41bcf4bce6f5bd74b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 33412aad2cf853b4daf699af62d8d452, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: f40cc61f28284f744863bdee6305ba6a, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 745e1cefcad3aba45b906cf90ec94cec, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 458bb1b81fe7cba4da31c98fe64c008d, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 5b30a725eccf01441867361c5825a028, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: db61fbdb7e4a84349b42e015d15b5504, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: ae65f9cdc49ffcf4eadda58b2650ef8b, type: 2}
+    level: 50

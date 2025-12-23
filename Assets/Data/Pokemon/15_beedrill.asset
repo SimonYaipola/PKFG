@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 15_beedrill
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: beedrill
+  description: 
+  frontSprite: {fileID: 4349915267927364619, guid: f2e39ce44d48db044bba0108fd3d136d, type: 3}
+  backSprite: {fileID: 4349915267927364619, guid: 9e73074044d973b4aae3b4417132e0c0, type: 3}
+  type1: 12
+  type2: 8
+  maxHp: 65
+  attack: 90
+  defense: 40
+  spAttack: 45
+  spDefense: 80
+  speed: 75
+  cry: {fileID: 8300000, guid: 9072623821759274ca048ad6c254faf6, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 91dd2e83d7703fd4a9b477c69cdb427f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bbb4d65a1a1f4944d81e90fc152b34c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3d4e0f49820172246aeebe46a778fdfd, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: e44277b2049ac5f42907c51fc5b3f267, type: 2}
+    level: 15

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 29_nidoran-f
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: nidoran-f
+  description: 
+  frontSprite: {fileID: 5181654206020448988, guid: 9362b0ae198cc484f8cb640b1d45914a, type: 3}
+  backSprite: {fileID: 5181654206020448988, guid: d60c6a45dda0e164e8ff05e2eef55b69, type: 3}
+  type1: 8
+  type2: 0
+  maxHp: 55
+  attack: 47
+  defense: 52
+  spAttack: 40
+  spDefense: 40
+  speed: 41
+  cry: {fileID: 8300000, guid: 5060d73e57034f44aa3e97d1f0798191, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a7dd0873740881149aa6a66fd8cc21a2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 91dd2e83d7703fd4a9b477c69cdb427f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63c50b1d781f0984c974eac4e58f20d3, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: f9ecd384296554b48ba7aea265ffded4, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 5bf11eedeba94874dbd1d539ee0b9ce8, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 7988f7b8a41079246b7962371fc2beaa, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: 8148f1a6299c007468636fdcc2cb47de, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 0473b353666222c448ffc4a4fa78ce99, type: 2}
+    level: 50

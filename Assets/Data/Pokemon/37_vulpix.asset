@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3943bd65c8d06f40a417101a214bff8, type: 3}
+  m_Name: 37_vulpix
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  name: vulpix
+  description: 
+  frontSprite: {fileID: -8712778243190278716, guid: eb0f0ae4e3c7c904790172ed26e8cb3b, type: 3}
+  backSprite: {fileID: -8712778243190278716, guid: f3643da1ea7131941bd210448b0dc8b2, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 38
+  attack: 41
+  defense: 40
+  spAttack: 50
+  spDefense: 65
+  speed: 65
+  cry: {fileID: 8300000, guid: 202fbccaa736d9f4695eaa2e1c3f7d23, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b4f776c30707cab49b024c83bfbfca59, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8f50cbd9d6314754a98a24c617cfe269, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: de29c2b7a83f8e742bad50e51f978b59, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: f385664a76efe3946a1219de5ef2cfc3, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: c00df43c0dd307f4684e3f8746dfda88, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 0d4c8adcc22a1d044b8a30dd0abb230d, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 0af39d75dd76c9240b69075130fc1efc, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: b8720955c7a9724408828a3bfefd0689, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: f04a1cd347660ec44b0fb865c7756a00, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: 01d8f4865ba816d4b9f745f9583d9b71, type: 2}
+    level: 52
